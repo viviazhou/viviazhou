@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=500&size=28&duration=2000&pause=99999&color=3D72C7&repeat=false&width=435&lines=Hi!+It's+Vivian+Zhou." alt="Hi! It's Vivian Zhou."/>
 </a>
 
-**Product Design Intern @ State Farm · UX/UI & AI · BFA UX Design & Applied AI Minor @ SCAD**
+**Product Design Intern @ State Farm**
 
 ---
 
