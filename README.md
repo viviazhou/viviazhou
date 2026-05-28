@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=500&size=28&duration=2000&pause=99999&color=3D72C7&repeat=false&width=435&lines=Hi!+It's+Vivian+Zhou." alt="Hi! It's Vivian Zhou."/>
 </a>
 
-**Product Design Intern @ State Farm**
+**Product Design Intern @ State Farm**<br>
 **BFA UX Design & Applied AI minor**
 
 ---
@@ -31,8 +31,7 @@
   <img src="https://api.iconify.design/logos/claude.svg" alt="Claude Code" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos/openai-icon.svg" alt="ChatGPT" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://api.iconify.design/logos/google-gemini.svg" alt="Gemini" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/devicon/cursor.svg" alt="Cursor" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/hp.svg?color=%230096D6" alt="HP AI Studio" width="40" height="40"/>
+  <img src="https://api.iconify.design/devicon/cursor.svg" alt="Cursor" width="40" height="40"/>
 </p>
 
 ---
