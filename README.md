@@ -38,4 +38,4 @@ BFA UX Design & Applied AI minor
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/vivian-zhou-0508a429b/) · [Email](mailto:viviannzhouu@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vivian-zhou-0508a429b/) · [Email](mailto:viviannzhouu@gmail.com) · [Resume](https://drive.google.com/file/d/1n41KJZehScC_yyqAOlfpAStFp7En5uMJ/view?usp=sharing)
