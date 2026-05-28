@@ -3,7 +3,7 @@
 </a>
 
 **Product Design Intern @ State Farm**<br>
-**BFA UX Design & Applied AI minor**
+BFA UX Design & Applied AI minor
 
 ---
 
@@ -38,11 +38,4 @@
 
 ### Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/vivian-zhou-0508a429b/">
-    <img src="https://api.iconify.design/logos/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:viviannzhouu@gmail.com">
-    <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/vivian-zhou-0508a429b/) · [Email](mailto:viviannzhouu@gmail.com)
