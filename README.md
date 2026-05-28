@@ -3,6 +3,7 @@
 </a>
 
 **Product Design Intern @ State Farm**
+**BFA UX Design & Applied AI minor**
 
 ---
 
