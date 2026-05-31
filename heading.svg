@@ -5,6 +5,40 @@
       font-size: 28px;
       font-weight: 500;
     }
+    .letter {
+      fill: #000;
+      animation-name: flicker;
+      animation-timing-function: ease-in-out;
+      animation-iteration-count: infinite;
+    }
+    .gold { --color: #F3DBA4; }
+    .green { --color: #CCE6A0; }
+    .olive { --color: #DEE1A1; }
+    .peach { --color: #F9D9C0; }
+    .pink { --color: #F7D7E3; }
+    .d1 { animation-duration: 8.6s; animation-delay: -0.2s; }
+    .d2 { animation-duration: 9.4s; animation-delay: -4.8s; }
+    .d3 { animation-duration: 8.9s; animation-delay: -7.4s; }
+    .d4 { animation-duration: 9.8s; animation-delay: -2.1s; }
+    .d5 { animation-duration: 10.2s; animation-delay: -8.8s; }
+    .d6 { animation-duration: 9.1s; animation-delay: -5.6s; }
+    .d7 { animation-duration: 8.7s; animation-delay: -1.2s; }
+    .d8 { animation-duration: 9.6s; animation-delay: -6.5s; }
+    .d9 { animation-duration: 8.8s; animation-delay: -3.1s; }
+    .d10 { animation-duration: 10.1s; animation-delay: -0.9s; }
+    .d11 { animation-duration: 9.2s; animation-delay: -7s; }
+    .d12 { animation-duration: 8.5s; animation-delay: -4s; }
+    .d13 { animation-duration: 10.3s; animation-delay: -9.7s; }
+    .d14 { animation-duration: 9s; animation-delay: -2.8s; }
+    .d15 { animation-duration: 9.9s; animation-delay: -6s; }
+    .d16 { animation-duration: 8.4s; animation-delay: -4.9s; }
+    .d17 { animation-duration: 9.5s; animation-delay: -1.7s; }
+    .d18 { animation-duration: 10s; animation-delay: -8.1s; }
+    @keyframes flicker {
+      0%, 10% { fill: #000; }
+      28%, 48% { fill: var(--color); }
+      66%, 100% { fill: #000; }
+    }
   </style>
-  <text x="0" y="36" fill="#000" xml:space="preserve"><tspan>H<animate attributeName="fill" values="#000;#F3DBA4;#F3DBA4;#000;#000" keyTimes="0;0.18;0.36;0.54;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.2s" begin="-0.4s" repeatCount="indefinite"/></tspan><tspan>i<animate attributeName="fill" values="#000;#CCE6A0;#CCE6A0;#000;#000" keyTimes="0;0.18;0.35;0.53;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.4s" begin="-4.8s" repeatCount="indefinite"/></tspan><tspan>!<animate attributeName="fill" values="#000;#DEE1A1;#DEE1A1;#000;#000" keyTimes="0;0.17;0.34;0.52;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="8.8s" begin="-7.6s" repeatCount="indefinite"/></tspan><tspan> </tspan><tspan>I<animate attributeName="fill" values="#000;#F9D9C0;#F9D9C0;#000;#000" keyTimes="0;0.18;0.38;0.56;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.8s" begin="-2.1s" repeatCount="indefinite"/></tspan><tspan>t<animate attributeName="fill" values="#000;#F7D7E3;#F7D7E3;#000;#000" keyTimes="0;0.18;0.37;0.55;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.8s" begin="-8.9s" repeatCount="indefinite"/></tspan><tspan>'<animate attributeName="fill" values="#000;#F3DBA4;#F3DBA4;#000;#000" keyTimes="0;0.17;0.35;0.53;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.5s" begin="-5.7s" repeatCount="indefinite"/></tspan><tspan>s<animate attributeName="fill" values="#000;#CCE6A0;#CCE6A0;#000;#000" keyTimes="0;0.18;0.36;0.54;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="8.9s" begin="-1.2s" repeatCount="indefinite"/></tspan><tspan> </tspan><tspan>V<animate attributeName="fill" values="#000;#DEE1A1;#DEE1A1;#000;#000" keyTimes="0;0.18;0.38;0.56;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.1s" begin="-6.5s" repeatCount="indefinite"/></tspan><tspan>i<animate attributeName="fill" values="#000;#F9D9C0;#F9D9C0;#000;#000" keyTimes="0;0.17;0.35;0.53;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.1s" begin="-3.2s" repeatCount="indefinite"/></tspan><tspan>v<animate attributeName="fill" values="#000;#F7D7E3;#F7D7E3;#000;#000" keyTimes="0;0.18;0.37;0.55;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.6s" begin="-0.8s" repeatCount="indefinite"/></tspan><tspan>i<animate attributeName="fill" values="#000;#F3DBA4;#F3DBA4;#000;#000" keyTimes="0;0.18;0.36;0.54;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.6s" begin="-7.1s" repeatCount="indefinite"/></tspan><tspan>a<animate attributeName="fill" values="#000;#CCE6A0;#CCE6A0;#000;#000" keyTimes="0;0.17;0.35;0.53;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="8.7s" begin="-4.1s" repeatCount="indefinite"/></tspan><tspan>n<animate attributeName="fill" values="#000;#DEE1A1;#DEE1A1;#000;#000" keyTimes="0;0.18;0.38;0.56;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.9s" begin="-9.8s" repeatCount="indefinite"/></tspan><tspan> </tspan><tspan>Z<animate attributeName="fill" values="#000;#F9D9C0;#F9D9C0;#000;#000" keyTimes="0;0.18;0.36;0.54;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.4s" begin="-2.8s" repeatCount="indefinite"/></tspan><tspan>h<animate attributeName="fill" values="#000;#F7D7E3;#F7D7E3;#000;#000" keyTimes="0;0.17;0.35;0.53;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.3s" begin="-6s" repeatCount="indefinite"/></tspan><tspan>o<animate attributeName="fill" values="#000;#F3DBA4;#F3DBA4;#000;#000" keyTimes="0;0.18;0.37;0.55;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="8.6s" begin="-5s" repeatCount="indefinite"/></tspan><tspan>u<animate attributeName="fill" values="#000;#CCE6A0;#CCE6A0;#000;#000" keyTimes="0;0.18;0.36;0.54;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="9.9s" begin="-1.7s" repeatCount="indefinite"/></tspan><tspan>.<animate attributeName="fill" values="#000;#DEE1A1;#DEE1A1;#000;#000" keyTimes="0;0.17;0.35;0.53;1" calcMode="spline" keySplines="0.42 0 0.58 1;0 0 1 1;0.42 0 0.58 1;0 0 1 1" dur="10.7s" begin="-8.2s" repeatCount="indefinite"/></tspan></text>
+  <text x="0" y="36" xml:space="preserve"><tspan class="letter gold d1">H</tspan><tspan class="letter green d2">i</tspan><tspan class="letter olive d3">!</tspan><tspan> </tspan><tspan class="letter peach d4">I</tspan><tspan class="letter pink d5">t</tspan><tspan class="letter gold d6">'</tspan><tspan class="letter green d7">s</tspan><tspan> </tspan><tspan class="letter olive d8">V</tspan><tspan class="letter peach d9">i</tspan><tspan class="letter pink d10">v</tspan><tspan class="letter gold d11">i</tspan><tspan class="letter green d12">a</tspan><tspan class="letter olive d13">n</tspan><tspan> </tspan><tspan class="letter peach d14">Z</tspan><tspan class="letter pink d15">h</tspan><tspan class="letter gold d16">o</tspan><tspan class="letter green d17">u</tspan><tspan class="letter olive d18">.</tspan></text>
 </svg>
