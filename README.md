@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=500&size=28&duration=2000&pause=99999&color=3D72C7&repeat=false&width=435&lines=Hi!+It's+Vivian+Zhou." alt="Hi! It's Vivian Zhou."/>
-</a>
+<img src="./heading.svg" alt="Hi! It's Vivian Zhou."/>
 
 **Product Design Intern @ State Farm**<br>
 BFA UX Design & Applied AI minor
